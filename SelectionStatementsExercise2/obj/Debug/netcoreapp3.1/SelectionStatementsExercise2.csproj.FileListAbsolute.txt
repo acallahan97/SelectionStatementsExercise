@@ -1,0 +1,14 @@
+C:\Users\calla\source\repos\SelectionStatementsExercise2\SelectionStatementsExercise2\bin\Debug\netcoreapp3.1\SelectionStatementsExercise2.exe
+C:\Users\calla\source\repos\SelectionStatementsExercise2\SelectionStatementsExercise2\bin\Debug\netcoreapp3.1\SelectionStatementsExercise2.deps.json
+C:\Users\calla\source\repos\SelectionStatementsExercise2\SelectionStatementsExercise2\bin\Debug\netcoreapp3.1\SelectionStatementsExercise2.runtimeconfig.json
+C:\Users\calla\source\repos\SelectionStatementsExercise2\SelectionStatementsExercise2\bin\Debug\netcoreapp3.1\SelectionStatementsExercise2.runtimeconfig.dev.json
+C:\Users\calla\source\repos\SelectionStatementsExercise2\SelectionStatementsExercise2\bin\Debug\netcoreapp3.1\SelectionStatementsExercise2.dll
+C:\Users\calla\source\repos\SelectionStatementsExercise2\SelectionStatementsExercise2\bin\Debug\netcoreapp3.1\SelectionStatementsExercise2.pdb
+C:\Users\calla\source\repos\SelectionStatementsExercise2\SelectionStatementsExercise2\obj\Debug\netcoreapp3.1\SelectionStatementsExercise2.csproj.AssemblyReference.cache
+C:\Users\calla\source\repos\SelectionStatementsExercise2\SelectionStatementsExercise2\obj\Debug\netcoreapp3.1\SelectionStatementsExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calla\source\repos\SelectionStatementsExercise2\SelectionStatementsExercise2\obj\Debug\netcoreapp3.1\SelectionStatementsExercise2.AssemblyInfoInputs.cache
+C:\Users\calla\source\repos\SelectionStatementsExercise2\SelectionStatementsExercise2\obj\Debug\netcoreapp3.1\SelectionStatementsExercise2.AssemblyInfo.cs
+C:\Users\calla\source\repos\SelectionStatementsExercise2\SelectionStatementsExercise2\obj\Debug\netcoreapp3.1\SelectionStatementsExercise2.csproj.CoreCompileInputs.cache
+C:\Users\calla\source\repos\SelectionStatementsExercise2\SelectionStatementsExercise2\obj\Debug\netcoreapp3.1\SelectionStatementsExercise2.dll
+C:\Users\calla\source\repos\SelectionStatementsExercise2\SelectionStatementsExercise2\obj\Debug\netcoreapp3.1\SelectionStatementsExercise2.pdb
+C:\Users\calla\source\repos\SelectionStatementsExercise2\SelectionStatementsExercise2\obj\Debug\netcoreapp3.1\SelectionStatementsExercise2.genruntimeconfig.cache
